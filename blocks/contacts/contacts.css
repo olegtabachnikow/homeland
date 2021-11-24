@@ -1,0 +1,11 @@
+.contacts {
+    max-width: 90%;
+    margin: 0 auto;
+    position: relative;
+}
+
+@media screen and (max-width: 320px) {
+    .contacts {
+        max-width: 100%;
+    }
+}

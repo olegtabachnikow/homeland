@@ -1,0 +1,23 @@
+.gallery__item {
+    margin-top: 1rem;
+    width: calc(100% / 4 - 1rem);
+}
+
+.gallery__item:nth-child(4n+4) {
+    margin-right: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .gallery__item {
+        width: calc(100% / 2 - .5rem);
+    }
+    .gallery__item:nth-child(2n+2) {
+        margin-right: 0;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .gallery__item {
+        width: 100%;
+    }
+}

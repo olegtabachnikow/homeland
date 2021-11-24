@@ -1,0 +1,11 @@
+.header__image {
+    width: 100%;
+    filter: grayscale(1);
+    margin-bottom: 6rem;
+}
+
+@media screen and (max-width: 320px) {
+    .header__image {
+        margin-bottom: 4rem;
+    }
+}
