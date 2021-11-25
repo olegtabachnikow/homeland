@@ -1,9 +1,9 @@
 @import url(../vendor/normalize.css);
 @import url(../fonts/inter/inter.css);
 @import url(../blocks/page/page.css);
-@import url(../blocks/page/__link/page__link.css);
-@import url(../blocks/page/__link/_margin/page__link_margin_top.css);
-@import url(../blocks/page/__link/_size/page__link_size_wide.css);
+@import url(../blocks/link/link.css);
+@import url(../blocks/link/_margin/link_margin_top.css);
+@import url(../blocks/link/_size/link_size_wide.css);
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__title/header__title.css);
@@ -33,6 +33,7 @@
 @import url(../blocks/places/__text/_margin/places__text_margin_top.css);
 @import url(../blocks/contacts/contacts.css);
 @import url(../blocks/contacts/__image/contacts__image.css);
+@import url(../blocks/contacts/__content-container/contacts__content-container.css);
 @import url(../blocks/contacts/__overlay/contacts__overlay.css);
 @import url(../blocks/contacts/__title/contacts__title.css);
 @import url(../blocks/contacts/__text/contacts__text.css);

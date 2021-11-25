@@ -6,13 +6,9 @@
     height: 100%;
     background-color: rgba(0, 0, 0, 0);
     z-index: 1;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
 }
 
-.contacts__overlay:hover {
+.contacts:hover .contacts__overlay {
     background-color: rgba(0, 0, 0, .3);
 }
 
