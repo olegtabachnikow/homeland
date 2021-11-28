@@ -9,8 +9,6 @@
 @media screen and (max-width: 320px) {
     .contacts__text {
         font-size: 14px;
-    }
-    .contacts__text {
         margin: 1rem 0;
     }
 }
