@@ -3,11 +3,11 @@
     font-size: 54px;
     line-height: 1.1;
     margin: 0;
+    max-width: 49rem;
 }
 
 @media screen and (max-width: 320px) {
     .intro__heading {
         font-size: 32px;
-        line-height: 1.1;
     }
 }

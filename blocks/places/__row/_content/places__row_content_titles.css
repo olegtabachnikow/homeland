@@ -1,5 +1,0 @@
-@media screen and (max-width: 320px) {
-    .places__row_content_titles {
-        flex-direction: column;
-    }
-}

@@ -1,19 +1,16 @@
 .contacts__text {
-    margin: 0;
+    margin: 0 0 2rem 0;
     font-size: 18px;
     line-height: 1.2;
-}
-
-.contacts__text:last-of-type {
-    margin-bottom: 2rem;
+    text-align: center;
+    max-width: 50%;
 }
 
 @media screen and (max-width: 320px) {
     .contacts__text {
         font-size: 14px;
-        line-height: 1.2;
     }
-    .contacts__text:last-of-type {
-        margin-bottom: .5rem;
+    .contacts__text {
+        margin: 1rem 0;
     }
 }

@@ -12,15 +12,3 @@
 .link:hover {
     background: #0063D2;
 }
-
-@media screen and (max-width: 768px) {
-    .link {
-        order: 2;
-    }
-}
-
-@media screen and (max-width: 320px) {
-    .link {
-        order: 3;
-    }
-}

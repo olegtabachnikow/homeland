@@ -4,3 +4,9 @@
     line-height: 1.1;
     margin: 6rem 0 2rem 0;
 }
+
+@media screen and (max-width: 320px) {
+    .footer__author {
+        margin-top: 4rem;
+    }
+}

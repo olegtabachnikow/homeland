@@ -1,6 +1,6 @@
 .gallery__item {
-    margin-top: 1rem;
-    width: calc(100% / 4 - 1rem);
+    margin: 1rem 1rem 0 0;
+    width: calc(100% / 4 - 0.8rem);
 }
 
 .gallery__item:nth-child(4n+4) {

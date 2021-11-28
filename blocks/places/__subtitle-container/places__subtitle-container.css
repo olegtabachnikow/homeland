@@ -1,0 +1,12 @@
+.places__subtitle-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    max-width: 90%;
+}
+
+@media screen and (max-width:320px) {
+    .places__subtitle-container {
+        margin: 2rem auto;
+    }
+}

@@ -1,0 +1,11 @@
+.link_place_places {
+    align-self: start;
+    grid-row: 3/5;
+}
+
+@media screen and (max-width: 320px) {
+    .link_place_places {
+        min-width: 80%;
+        align-self: center;
+    }
+}
