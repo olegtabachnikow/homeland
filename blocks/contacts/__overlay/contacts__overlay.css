@@ -4,16 +4,10 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(42, 44, 47, 0);
+    background: rgba(42, 44, 47, .3);
     z-index: 1;
 }
 
 .contacts:hover .contacts__overlay {
     background: rgba(42, 44, 47, .8);
-}
-
-@media screen and (max-width: 320px) {
-    .contacts__overlay {
-        background: rgba(42, 44, 47, .3);
-    }
 }

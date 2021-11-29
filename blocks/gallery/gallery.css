@@ -14,7 +14,8 @@
 
 @media screen and (max-width: 320px) {
     .gallery {
-        max-width: calc(100% - 3rem);
+        max-width: calc(100% - 2rem);
         flex-direction: column;
+        margin-bottom: 3.85rem;
     }
 }

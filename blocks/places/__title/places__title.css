@@ -13,9 +13,17 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 500px) {
     .places__title {
         max-width: 90%;
-        align-self: auto;
+        align-self: start;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .places__title {
+        font-size: 32px;
+        min-width: 90%;
+        margin: auto;
     }
 }
