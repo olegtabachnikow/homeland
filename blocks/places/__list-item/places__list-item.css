@@ -2,9 +2,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     column-gap: 1.5rem;
-    row-gap: 3rem;
     margin-top: 5rem;
-    /* I dont sure about spaces here, cause grid template add some another space after text elemets. Shoul i include space of row at distance or not i didnt know */
 }
 
 .places__list-item:first-of-type {
@@ -13,7 +11,7 @@
 
 @media screen and (max-width: 768px) {
     .places__list-item {
-        margin-top: 1.5rem;
+        margin-top: 3rem;
     }
 }
 

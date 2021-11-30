@@ -1,0 +1,11 @@
+.quote {
+    max-width: 77%;
+    margin: auto;
+}
+
+@media screen and (max-width: 768px) {
+    .quote {
+        max-width: calc(100% - 3rem);
+        margin: 0 auto;
+    }
+}

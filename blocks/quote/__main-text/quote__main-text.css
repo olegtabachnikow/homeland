@@ -1,4 +1,4 @@
-.intro__quote {
+.quote__main-text {
     font-size: 24px;
     line-height: 1.4;
     margin: 2.5rem 0 1rem 0;
@@ -6,13 +6,13 @@
 }
 
 @media screen and (max-width: 768px) {
-    .intro__quote {
+    .quote__main-text {
         max-width: 100%;
     }
 }
 
 @media screen and (max-width: 320px) {
-    .intro__quote {
+    .quote__main-text {
         font-size: 24px;
         line-height: 1.3;
     }

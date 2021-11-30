@@ -1,6 +1,8 @@
 .places__image {
     max-width: 95%;
     object-fit: cover;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
 }
 
 @media screen and (max-width: 768px) {
@@ -12,5 +14,7 @@
 @media screen and (max-width: 320px) {
     .places__image {
         max-width: 100%;
+        margin-top: 0;
+        margin-bottom: 0;
     }
 }

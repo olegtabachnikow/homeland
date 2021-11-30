@@ -1,4 +1,4 @@
-.intro__heading {
+.quote__heading {
     font-weight: 900;
     font-size: 54px;
     line-height: 1.1;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (max-width: 320px) {
-    .intro__heading {
+    .quote__heading {
         font-size: 32px;
     }
 }

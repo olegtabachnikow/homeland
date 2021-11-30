@@ -10,11 +10,11 @@
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__subtitle/intro__subtitle.css);
 @import url(../blocks/intro/__image/intro__image.css);
-@import url(../blocks/intro/__container/intro__container.css);
-@import url(../blocks/intro/__heading/intro__heading.css);
-@import url(../blocks/intro/__quote/intro__quote.css);
-@import url(../blocks/intro/__quote-author/intro__quote-author.css);
-@import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/quote/quote.css);
+@import url(../blocks/quote/__heading/quote__heading.css);
+@import url(../blocks/quote/__main-text/quote__main-text.css);
+@import url(../blocks/quote/__author/quote__author.css);
+@import url(../blocks/quote/__text/quote__text.css);
 @import url(../blocks/gallery/gallery.css);
 @import url(../blocks/gallery/__item/gallery__item.css);
 @import url(../blocks/places/places.css);
