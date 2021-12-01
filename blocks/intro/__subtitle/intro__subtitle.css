@@ -8,7 +8,7 @@
 
 @media screen and (max-width: 768px) {
     .intro__subtitle {
-        max-width: 90%;
+        max-width: calc(100% - 3rem);
         margin-bottom: 3rem;
     }
 }
