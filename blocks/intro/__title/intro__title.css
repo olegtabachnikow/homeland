@@ -9,7 +9,7 @@
 
 @media screen and (max-width: 768px) {
     .intro__title {
-        max-width: 90%;
+        max-width: calc(100% - 3rem);
         font-size: 12vw;
     }
 }
