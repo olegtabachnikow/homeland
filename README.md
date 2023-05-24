@@ -6,5 +6,5 @@ Landing page responsive template, including short articles about favorite places
 
 HTML, CSS
 
-Deployed on [github pages](https://eskel4ik.github.io/homeland/index.html)
+Deployed on [github pages](https://olegtabachnikow.github.io/homeland/index.html)
 
